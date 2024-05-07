@@ -242,6 +242,7 @@ nav ul li {
 
 .project-details, .project-title {
     text-align: center; /* Centers the text */
+    color: white;
 }
 
 .project-link {
